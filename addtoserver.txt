@@ -1,0 +1,2 @@
+377977128960
+https://discord.com/api/oauth2/authorize?client_id=890672527418986567&permissions=377977128960&scope=bot
